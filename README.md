@@ -26,7 +26,6 @@ A React Native mobile application that allows users to search and view movie inf
 Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
-- [Git](https://git-scm.com/)
 
 ## 🚀 Getting Started
 
@@ -74,42 +73,9 @@ npm run android
 npm run web
 ```
 
-## 🏗️ Project Structure
-
-```
-movie-search-app/
-├── App.js
-├── components/
-│   └── MovieCard.js
-├── screens/
-│   ├── HomeScreen.js
-│   └── MovieDetails.js
-├── services/
-│   └── api.js
-└── assets/
-```
-
 ## 📄 API Reference
 
 This project uses the [OMDB API](https://www.omdbapi.com/). You'll need to obtain an API key from their website to run the application.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-Your Name
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
 
 ## 🙏 Acknowledgments
 
